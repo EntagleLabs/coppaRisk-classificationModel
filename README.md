@@ -94,8 +94,8 @@ MIT License © 2025 Nervics Labs
 ## 👤 Author
 
 Nervics Labs
-📧 Email: nervics.labs@gmail.com
-🌐 GitHub: [@NervicsLabs](https://github.com/NervicsLabs)
+- 📧 Email: nervics.labs@gmail.com
+- 🌐 GitHub: [@NervicsLabs](https://github.com/NervicsLabs)
 
 ---
 

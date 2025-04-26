@@ -85,17 +85,11 @@ SHAP values are used to explain feature influence on predictions:
 
 ---
 
-## 📄 License
-
-MIT License © 2025 Nervics Labs
-
----
-
 ## 👤 Author
 
-Nervics Labs
-- 📧 Email: nervics.labs@gmail.com
-- 🌐 GitHub: [@NervicsLabs](https://github.com/NervicsLabs)
+- 🌐 GitHub: [@eycoo](https://github.com/eycoo)
+- 🌐 GitHub: [@luminolous](https://github.com/luminolous)
+- 🌐 GitHub: [@Paibull](https://github.com/Paibull)
 
 ---
 
